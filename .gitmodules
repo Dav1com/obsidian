@@ -1,0 +1,3 @@
+[submodule "job/t14-consulting"]
+	path = job/t14-consulting
+	url = git@github.com:Dav1com/t14-obsidian.git
