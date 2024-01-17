@@ -1,0 +1,5 @@
+---
+aliases:
+  - LoL
+---
+#moba #pc

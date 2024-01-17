@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#highFantasy",
+                "query": "tag:#rithmth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,6 +198,11 @@
   },
   "active": "6212c106178df2b9",
   "lastOpenFiles": [
+    "games/Girls Band Party.md",
+    "games/League of Legends.md",
+    "games/Splatoon 3.md",
+    "games/Splatoon 2.md",
+    "games",
     "people/Eric Kirchgessner.md",
     "organizations/T14 Consulting.md",
     "organizations/Progcomp Uchile.md",
@@ -224,16 +229,11 @@
     "terms/Books/Untitled.md",
     "terms/Books",
     "job/t14-consulting/projects/BlueYonder levers/terms/Lever.md",
-    "Software.md",
     "job/t14-consulting",
-    "terms/Formal Languages/Soundness.md",
-    "terms/Computer Science/Data Base.md",
-    "terms/Software/Snowflake.md",
     "terms/Software",
     "terms/Computer Science",
     "terms/Logic",
     "terms/Formal Languages",
-    "tv",
     "books/Brandon Sanderson/Untitled.canvas"
   ]
 }
