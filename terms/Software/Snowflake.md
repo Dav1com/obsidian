@@ -1,0 +1,1 @@
+A [[SQL]] [[Data Base Management System|DBMS]] focused on [[Data Analysis]], built for moving big chunks of data, and working with [[Tables]] many [[Columns]] wide

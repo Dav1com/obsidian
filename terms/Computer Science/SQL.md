@@ -1,0 +1,4 @@
+---
+aliases:
+  - Standard Query Language
+---

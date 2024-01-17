@@ -11,8 +11,13 @@
             "id": "e4c67f7cfb8aabe6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "terms/Computer Science/Data Base Management System.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "complete",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "terms/Computer Science/Data Base Management System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "terms/Computer Science/Data Base Management System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "terms/Computer Science/Data Base Management System.md"
+              }
             }
           }
         ]
@@ -138,10 +147,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a759ee4345beb70",
+  "active": "e4c67f7cfb8aabe6",
   "lastOpenFiles": [
-    "job/t14-consulting",
-    "job",
-    "Job"
+    "terms/Software/Snowflake.md",
+    "terms/Computer Science/Data Base.md",
+    "terms/Computer Science/Data Base Management System.md",
+    "terms/Computer Science/Algorithm.md",
+    "terms/Untitled.md",
+    "terms/Software",
+    "terms/Computer Science/SQL.md",
+    "Diverges.md",
+    "people/Thomas Burkhardt.md",
+    "job/t14-consulting/projects/BlueYonder levers/meetings/2014-01-16.md",
+    "people/Eric Tànter.md",
+    "terms/Logic/Partial Function.md",
+    "terms/Formal Languages/Completeness.md",
+    "terms/Formal Languages/Soundness.md",
+    "Terms.md",
+    "terms/Computer Science",
+    "terms/Formal Languages/Unit.md",
+    "terms/Formal Languages/Term.md",
+    "terms/Formal Languages/Type System.md",
+    "terms/Formal Languages/Type Judgment.md",
+    "terms/Formal Languages/Type.md",
+    "terms/Formal Languages/Tuple.md",
+    "terms/Formal Languages/Trivial.md",
+    "terms/Formal Languages/Sum Type.md",
+    "terms/Formal Languages/System F.md",
+    "terms/Formal Languages/System M.md",
+    "terms/Formal Languages/System T.md",
+    "terms/Formal Languages/Void.md",
+    "terms/Logic",
+    "terms/Formal Languages",
+    "tv",
+    "games",
+    "books/Brandon Sanderson/Cosmere",
+    "books/Brandon Sanderson/Untitled.canvas",
+    "journal",
+    "terms/Cosmere",
+    "books/Brandon Sanderson"
   ]
 }

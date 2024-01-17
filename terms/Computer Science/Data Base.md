@@ -1,0 +1,5 @@
+---
+aliases:
+  - DB
+  - Data Bases
+---
