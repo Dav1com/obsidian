@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:terms/Logic  ",
@@ -34,9 +34,44 @@
         "a": 1,
         "rgb": 65280
       }
+    },
+    {
+      "query": "path:job/t14-consulting/terms ",
+      "color": {
+        "a": 1,
+        "rgb": 1288725
+      }
+    },
+    {
+      "query": "path:people  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:books  ",
+      "color": {
+        "a": 1,
+        "rgb": 12255487
+      }
+    },
+    {
+      "query": "path:tv",
+      "color": {
+        "a": 1,
+        "rgb": 16711927
+      }
+    },
+    {
+      "query": "path:games",
+      "color": {
+        "a": 1,
+        "rgb": 11873424
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -0.9,
   "nodeSizeMultiplier": 1.58020833333333,
@@ -46,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4444444444444441,
+  "scale": 0.19753086419753055,
   "close": false
 }

@@ -10,18 +10,62 @@
           {
             "id": "e4c67f7cfb8aabe6",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "3e78b0d38eeb47da",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "terms/Computer Science/Data Base Management System.md",
-                "mode": "preview",
+                "file": "books/The Well Of Ascension.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "48e3184fc9bb4247",
+            "id": "70673f5ed170871a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cf8662ada1d366e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "organizations/Departamento de Ciencias de la Computación.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0845a6daf08bfc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "organizations/T14 Consulting.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6212c106178df2b9",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -29,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -58,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "complete",
+                "query": "tag:#highFantasy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,44 +196,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a759ee4345beb70",
+  "active": "6212c106178df2b9",
   "lastOpenFiles": [
+    "people/Eric Kirchgessner.md",
+    "organizations/T14 Consulting.md",
+    "organizations/Progcomp Uchile.md",
+    "organizations/Departamento de Ciencias de la Computación.md",
+    "people/Éric Tanter.md",
+    "organizations/Centro de Alumnes del Departamento de Ciencias de la Computación.md",
+    "organizations/Facultad De Ciencias Físicas y Matemáticas.md",
+    "organizations/Universidad de Chile.md",
+    "organizations/Inria Chile.md",
+    "organizations/Inria.md",
+    "organizations",
+    "job/t14-consulting/templates/Meeting.md",
+    "books/The Well Of Ascension.md",
+    "books/The Hero Of Ages.md",
+    "books/The Final Empire.md",
+    "books/The Allow of Law.md",
+    "books/Shadows Of Self.md",
+    "books/Elantris.md",
+    "books/Bands Of Mourning.md",
+    "books/Untitled",
+    "terms/Books/Cosmere/Cosmere.md",
+    "terms/Computer Science/Data Base Management System.md",
+    "terms/Books/Cosmere",
+    "terms/Books/Untitled.md",
+    "terms/Books",
+    "job/t14-consulting/projects/BlueYonder levers/terms/Lever.md",
+    "Software.md",
     "job/t14-consulting",
     "terms/Formal Languages/Soundness.md",
-    "terms/Computer Science/Data Base Management System.md",
     "terms/Computer Science/Data Base.md",
     "terms/Software/Snowflake.md",
-    "terms/Computer Science/Algorithm.md",
-    "terms/Untitled.md",
     "terms/Software",
-    "terms/Computer Science/SQL.md",
-    "Diverges.md",
-    "people/Thomas Burkhardt.md",
-    "job/t14-consulting/projects/BlueYonder levers/meetings/2014-01-16.md",
-    "people/Eric Tànter.md",
-    "terms/Logic/Partial Function.md",
-    "terms/Formal Languages/Completeness.md",
-    "Terms.md",
     "terms/Computer Science",
-    "terms/Formal Languages/Unit.md",
-    "terms/Formal Languages/Term.md",
-    "terms/Formal Languages/Type System.md",
-    "terms/Formal Languages/Type Judgment.md",
-    "terms/Formal Languages/Type.md",
-    "terms/Formal Languages/Tuple.md",
-    "terms/Formal Languages/Trivial.md",
-    "terms/Formal Languages/Sum Type.md",
-    "terms/Formal Languages/System F.md",
-    "terms/Formal Languages/System M.md",
-    "terms/Formal Languages/System T.md",
     "terms/Logic",
     "terms/Formal Languages",
     "tv",
-    "games",
-    "books/Brandon Sanderson/Cosmere",
-    "books/Brandon Sanderson/Untitled.canvas",
-    "journal",
-    "terms/Cosmere",
-    "books/Brandon Sanderson"
+    "books/Brandon Sanderson/Untitled.canvas"
   ]
 }
