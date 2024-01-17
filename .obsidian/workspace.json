@@ -14,13 +14,22 @@
               "type": "markdown",
               "state": {
                 "file": "terms/Computer Science/Data Base Management System.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "48e3184fc9bb4247",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "terms/Computer Science/Data Base Management System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "terms/Computer Science/Data Base Management System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "terms/Computer Science/Data Base Management System.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,11 +152,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4c67f7cfb8aabe6",
+  "active": "2a759ee4345beb70",
   "lastOpenFiles": [
-    "terms/Software/Snowflake.md",
-    "terms/Computer Science/Data Base.md",
+    "job/t14-consulting",
+    "terms/Formal Languages/Soundness.md",
     "terms/Computer Science/Data Base Management System.md",
+    "terms/Computer Science/Data Base.md",
+    "terms/Software/Snowflake.md",
     "terms/Computer Science/Algorithm.md",
     "terms/Untitled.md",
     "terms/Software",
@@ -162,7 +169,6 @@
     "people/Eric Tànter.md",
     "terms/Logic/Partial Function.md",
     "terms/Formal Languages/Completeness.md",
-    "terms/Formal Languages/Soundness.md",
     "Terms.md",
     "terms/Computer Science",
     "terms/Formal Languages/Unit.md",
@@ -176,7 +182,6 @@
     "terms/Formal Languages/System F.md",
     "terms/Formal Languages/System M.md",
     "terms/Formal Languages/System T.md",
-    "terms/Formal Languages/Void.md",
     "terms/Logic",
     "terms/Formal Languages",
     "tv",

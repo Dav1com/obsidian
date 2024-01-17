@@ -5,26 +5,47 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "path:terms/Logic  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 262399
+      }
+    },
+    {
+      "query": "path:\"terms/Formal Languages\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 36602
+      }
+    },
+    {
+      "query": "path:\"terms/Computer Science\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 64142
+      }
+    },
+    {
+      "query": "path:terms/Software  ",
+      "color": {
+        "a": 1,
+        "rgb": 65280
       }
     }
   ],
   "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "showArrow": true,
+  "textFadeMultiplier": -0.9,
+  "nodeSizeMultiplier": 1.58020833333333,
+  "lineSizeMultiplier": 2.090625,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4444444444444444,
-  "close": true
+  "scale": 0.4444444444444441,
+  "close": false
 }
