@@ -1,1 +1,15 @@
-{}
+{
+  "promptDelete": false,
+  "mobileToolbarCommands": [
+    "editor:attach-file",
+    "editor:toggle-highlight",
+    "editor:toggle-blockquote",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:configure-toolbar",
+    "insert-current-time"
+  ]
+}
